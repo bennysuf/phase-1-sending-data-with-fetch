@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +23,111 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": 1
+    },
+    {
+      "name": "benny",
+      "email": "benny@gmail",
+      "id": 2
+    },
+    {
+      "name": "benny",
+      "email": "benny@gmail",
+      "id": 3
+    },
+    {
+      "name": "benny",
+      "email": "benny@gmail",
+      "id": 4
+    },
+    {
+      "name": "benny",
+      "email": "benny@gmail",
+      "id": 5
+    },
+    {
+      "name": "benny",
+      "email": "benny@gmail",
+      "id": 6
+    },
+    {
+      "name": "benny",
+      "email": "benny@gmail",
+      "id": 7
+    },
+    {
+      "name": "benny",
+      "email": "benny@gmail",
+      "id": 8
+    },
+    {
+      "name": "benny",
+      "email": "benny@gmail",
+      "id": 9
+    },
+    {
+      "name": "benny",
+      "email": "benny@gmail",
+      "id": 10
+    },
+    {
+      "name": "benny",
+      "email": "benny@gmail",
+      "id": 11
+    },
+    {
+      "name": "benny",
+      "email": "benny@gmail",
+      "id": 12
+    },
+    {
+      "name": "benny",
+      "email": "benny@gmail",
+      "id": 13
+    },
+    {
+      "name": "benny",
+      "email": "benny@gmail",
+      "id": 14
+    },
+    {
+      "name": "benny",
+      "email": "benny@gmail",
+      "id": 15
+    },
+    {
+      "name": "benny",
+      "email": "benny@gmail",
+      "id": 16
+    },
+    {
+      "name": "benny",
+      "email": "benny@gmail",
+      "id": 17
+    },
+    {
+      "name": "benny",
+      "email": "benny@gmail",
+      "id": 18
+    },
+    {
+      "name": "benny",
+      "email": "benny@gmail",
+      "id": 19
+    },
+    {
+      "name": "benny",
+      "email": "benny@gmail",
+      "id": 20
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
